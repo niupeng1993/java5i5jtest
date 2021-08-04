@@ -1,4 +1,4 @@
-# javatest
+# java5i5jtest
 javatest
 #测试github监控系统
 host = "bacic5i5j.com"
